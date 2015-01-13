@@ -64,14 +64,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.37362638" vertical-offset="221" max-vertical-offset="1564">
-              <folding>
-                <marker date="1421098507108" expanded="true" signature="1213:1366" placeholder="..." />
-                <marker date="1421098507108" expanded="true" signature="1306:1334" placeholder="..." />
-              </folding>
+            <state line="29" column="0" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1564">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.1539855" vertical-offset="0" max-vertical-offset="552">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,13 +85,8 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="38" selection-start="3701" selection-end="3701" vertical-scroll-proportion="-18.846153" vertical-offset="734" max-vertical-offset="1938">
-              <folding>
-                <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
+            <state line="72" column="38" selection-start="3701" selection-end="3701" vertical-scroll-proportion="0.0" vertical-offset="734" max-vertical-offset="1938">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,7 +112,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="32" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+            <state line="10" column="32" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -179,7 +180,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -199,153 +199,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-add-to-home-screen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-add-to-home-screen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-add-to-home-screen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -690,12 +547,13 @@
       <workItem from="1420938696892" duration="2943000" />
       <workItem from="1420942369462" duration="196000" />
       <workItem from="1420976650160" duration="4186000" />
-      <workItem from="1421098072065" duration="5007000" />
+      <workItem from="1421098072065" duration="6365000" />
+      <workItem from="1421109495937" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21914000" />
+    <option name="totallyTimeSpent" value="23318000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -725,7 +583,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1933816" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37642193" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -766,32 +624,15 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
-          <folding>
-            <marker date="1421098507108" expanded="true" signature="1213:1366" placeholder="..." />
-            <marker date="1421098507108" expanded="true" signature="1306:1334" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/angular-add-to-home-screen/styles/aaths.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1105">
-          <folding />
-        </state>
+        <state line="35" column="1" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1105" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="89" column="14" selection-start="4662" selection-end="4662" vertical-scroll-proportion="0.0" vertical-offset="1513" max-vertical-offset="1649">
-          <folding>
-            <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -819,37 +660,25 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="0" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1564">
-          <folding>
-            <marker date="1421098507108" expanded="true" signature="1213:1366" placeholder="..." />
-            <marker date="1421098507108" expanded="true" signature="1306:1334" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/angular-add-to-home-screen/styles/aaths.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1105">
-          <folding />
-        </state>
+        <state line="35" column="1" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="1105" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632">
-          <folding>
-            <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/less/forms.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="375" column="0" selection-start="9172" selection-end="9172" vertical-scroll-proportion="0.0" vertical-offset="5583" max-vertical-offset="6494">
-          <folding />
-        </state>
+        <state line="375" column="0" selection-start="9172" selection-end="9172" vertical-scroll-proportion="0.0" vertical-offset="5583" max-vertical-offset="6494" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
@@ -881,37 +710,25 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="42" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
-          <folding>
-            <marker date="1421098507108" expanded="true" signature="1213:1366" placeholder="..." />
-            <marker date="1421098507108" expanded="true" signature="1306:1334" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/angular-add-to-home-screen/styles/aaths.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1105">
-          <folding />
-        </state>
+        <state line="35" column="1" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1105" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="81" column="0" selection-start="4193" selection-end="4193" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="1632">
-          <folding>
-            <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/less/forms.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="375" column="0" selection-start="9172" selection-end="9172" vertical-scroll-proportion="0.0" vertical-offset="5583" max-vertical-offset="6494">
-          <folding />
-        </state>
+        <state line="375" column="0" selection-start="9172" selection-end="9172" vertical-scroll-proportion="0.0" vertical-offset="5583" max-vertical-offset="6494" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
@@ -943,22 +760,14 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="0" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
-          <folding>
-            <marker date="1421098507108" expanded="true" signature="1213:1366" placeholder="..." />
-            <marker date="1421098507108" expanded="true" signature="1306:1334" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="83" column="55" selection-start="4236" selection-end="4236" vertical-scroll-proportion="0.0" vertical-offset="1029" max-vertical-offset="1615">
-          <folding>
-            <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -986,22 +795,14 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1479">
-          <folding>
-            <marker date="1421098507108" expanded="true" signature="1213:1366" placeholder="..." />
-            <marker date="1421098507108" expanded="true" signature="1306:1334" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="46" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1105">
-          <folding>
-            <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,44 +869,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/less/forms.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="375" column="0" selection-start="9172" selection-end="9172" vertical-scroll-proportion="0.0" vertical-offset="5583" max-vertical-offset="6494">
-          <folding />
-        </state>
+        <state line="375" column="0" selection-start="9172" selection-end="9172" vertical-scroll-proportion="0.0" vertical-offset="5583" max-vertical-offset="6494" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="5213" selection-start="5361" selection-end="5361" vertical-scroll-proportion="0.29651162" vertical-offset="0" max-vertical-offset="344">
-          <folding />
-        </state>
+        <state line="6" column="5213" selection-start="5361" selection-end="5361" vertical-scroll-proportion="0.29651162" vertical-offset="0" max-vertical-offset="344" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/bootstrap/dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="574" column="0" selection-start="6903" selection-end="6903" vertical-scroll-proportion="0.33139536" vertical-offset="9644" max-vertical-offset="121091">
-          <folding />
-        </state>
+        <state line="574" column="0" selection-start="6903" selection-end="6903" vertical-scroll-proportion="0.33139536" vertical-offset="9644" max-vertical-offset="121091" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/angular-add-to-home-screen/styles/aaths.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="852" selection-end="852" vertical-scroll-proportion="0.42857143" vertical-offset="442" max-vertical-offset="1105">
-          <folding />
-        </state>
+        <state line="35" column="1" selection-start="852" selection-end="852" vertical-scroll-proportion="0.42857143" vertical-offset="442" max-vertical-offset="1105" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/angular-add-to-home-screen/js/directives/ngAddToHomeScreen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/angular-add-to-home-screen/js/angularAddToHomeScreen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
@@ -1131,23 +920,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="38" selection-start="3701" selection-end="3701" vertical-scroll-proportion="-18.846153" vertical-offset="734" max-vertical-offset="1938">
-          <folding>
-            <element signature="n#style#0;n#label#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+        <state line="72" column="38" selection-start="3701" selection-end="3701" vertical-scroll-proportion="0.0" vertical-offset="734" max-vertical-offset="1938">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.37362638" vertical-offset="221" max-vertical-offset="1564">
-          <folding>
-            <marker date="1421098507108" expanded="true" signature="1213:1366" placeholder="..." />
-            <marker date="1421098507108" expanded="true" signature="1306:1334" placeholder="..." />
-          </folding>
+        <state line="29" column="0" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.1539855" vertical-offset="0" max-vertical-offset="552">
+          <folding />
         </state>
       </provider>
     </entry>
