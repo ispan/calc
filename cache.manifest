@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# 19.01.15
+
+# Explicitly cached entries
+index.html
+views/main.html
+css/style.css
+
+styles/54f2506b.main.css
+styles/8f2286ce.vendor.css
+
+scripts/2b0c4042.scripts.js
+scripts/6aca0d1b.vendor.js
+
+
+
+# All other resources (e.g. sites) require the user to be online. 
+NETWORK:
+*
+
